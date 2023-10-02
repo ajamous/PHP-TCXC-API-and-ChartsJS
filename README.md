@@ -19,7 +19,17 @@ This project provides a visual representation of call data from Telecomsxchange 
 - A web server (e.g., Apache, Nginx) or a local development environment like XAMPP or MAMP.
 - PHP installed on your server.
 
-### Installation
+## Quick Start with Replit
+
+You can easily get started with this project using the provided Replit template:
+
+[![Run on Replit](https://replit.com/badge/github/ajamous/PHP-TCXC-API-and-ChartsJS)](https://replit.com/@AmeedJamous/PHP-TCXC-API-and-ChartsJS?v=1)
+
+Simply click the badge above, and you'll be able to run and modify the project directly in your browser without any setup.
+
+
+
+
 
 1. Clone the repository:
    ```sh
