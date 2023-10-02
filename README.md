@@ -2,6 +2,7 @@
 
 This project provides a visual representation of call data from Telecomsxchange using grouped bar charts. It showcases the top vendors and countries based on call count.
 
+![ezgif com-video-to-gif-2](https://github.com/ajamous/PHP-TCXC-API-and-ChartsJS/assets/19316784/c7cf7db2-b198-4130-80f4-1e10434ff0e5)
 
 
 
