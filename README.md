@@ -1,7 +1,3 @@
-Of course! Here's the updated `README.md` for your project with the provided repository URL:
-
----
-
 # Telecomsxchange Data Visualization
 
 This project provides a visual representation of call data from Telecomsxchange using grouped bar charts. It showcases the top vendors and countries based on call count.
